@@ -1,0 +1,2 @@
+python3 demo.py webcam --config nanodet-plus.yml --model nanodet_plus.pth --camid 0
+
